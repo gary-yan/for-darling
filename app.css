@@ -1,0 +1,16 @@
+h1,h3,p,button{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.onepage{
+    height:750px;
+}
+.onepage-bg{
+    height: 800px;
+    width: 100%;
+    position: absolute;
+    background-position: center center;
+    background-size: cover;
+}
+#onepagebg{
+    background-image: url("images/drawing.jpg");
+}
