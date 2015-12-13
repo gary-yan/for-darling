@@ -1,11 +1,6 @@
 h1,h3,p,button{
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-.row{
-    margin-top: 500px;
-    margin-right:50px;
-}
-
 .onepage{
     height:750px;
 }
@@ -17,46 +12,5 @@ h1,h3,p,button{
     background-size: cover;
 }
 #onepagebg{
-    background-image: url("images/we.jpg");
-}
-#twopagebg{
-    background-image: url("images/jump.jpg");
-}
-#thirdpagebg{
     background-image: url("images/drawing.jpg");
-}
-.thirdpage-bg{
-    height: 800px;
-    width: 100%;
-    position: absolute;
-    background-position: center center;
-    background-size: cover;
-}
-
-.side-nav{
-    position: fixed;
-    top: 45%;
-    right: 20px;
-    z-index: 1;
-}
-
-.side-nav ul.nav-side-nav{
-    text-align: center;
-    list-style: none;
-    margin: 0;
-    padding-left: 0;
-}
-.side-nav ul.nav-side-nav >li{
-    display: block;
-    line-height: 1.45em;
-    margin: 0;
-    padding:8px 0;
-}
-
-.side-nav ul.nav-side-nav >li >a{
-    display: block;
-    width: 10px;
-    height: 10px;
-    border-radius: 50%;
-    background: green;
 }
